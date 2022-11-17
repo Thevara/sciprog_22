@@ -1,0 +1,1 @@
+This is the file for calculating the area under the curve.
