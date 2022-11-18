@@ -1,0 +1,1 @@
+This is the code for area under the curve example done with the help of functions.
