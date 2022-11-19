@@ -1,0 +1,1 @@
+This folder contains the assignment materials for Practicals week 5. The Fibonacci series has been created using long int which allows the n value to be a maximum of 46.
