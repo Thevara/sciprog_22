@@ -1,0 +1,1 @@
+This weeks Practical6 C codes contain the main file, the sub finction c file and a make file which creates object code automatically.
