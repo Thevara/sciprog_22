@@ -1,0 +1,1 @@
+This c file can be used to find the minimum number of moves necessary to the hanoi puzzle for any given discs.
